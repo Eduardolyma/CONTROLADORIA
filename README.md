@@ -5,10 +5,7 @@ A controladoria é um setor da empresa responsável pelo controle orçamentário
 Esse projeto foi feito vendo tutoriais em videos no YouTube, Google
 não está 100% fiel ao que foi solicitado no desafio, mas o que foi feito aqui foi feito com o máximo de dedicação e empenho. Desde já, agradeço a Marcelo Berenguer pela confiança e pela oportunidade.
 
-# BANCO DE DADOS
-Aprendi estudando esse final de semana 
-
-# JAVA COM APIS
+# JAVA 
 API REST para controlar receitas e despesas de clientes sejam eles pessoas físicas ou jurídicas.
 As seguintes ferramentas foram usadas na construção do projeto:
 Spring Boot, DevTools, Maven, Hibernate, H2 Database, JPA Metamodel
